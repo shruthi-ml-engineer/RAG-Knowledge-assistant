@@ -1,0 +1,72 @@
+[
+	{
+		"question": "How can I register as a supplier to the WHO?",
+		"answer": "Interested suppliers are encouraged to visit the United Nations Global Marketplace (UNGM) in order to register as a potential supplier to WHO. UNGM is used by most UN agencies, funds, and programmes to publish tender opportunities. Suppliers interested in the tenders published by WHO must register on UNGM in order to see the tender documentation and participate in the procurement."
+	},
+	{
+		"question": "How can I find out whether my range of products or services is procured by WHO?",
+		"answer": "WHO procurement is based on a three-tier system, at global level, regional office level and country office level. We encourage suppliers interested in doing business with WHO to do their own market research to find possible business opportunities for the different range of products or services they offer." 
+	},
+	{
+		"question": "What are the principles of WHO procurement?",
+		"answer": "Best value for money, Fairness, integrity, transparency and equal treatment, Effective competition, Interest of WHO, Sustainable procurement"
+	},
+	{
+		"question": "How can I follow-up on the proposals that I have submitted?",
+		"answer": "You can raise your request as per the instructions contained in the tender documents. The contact details for queries are available in the tender documents and may also be published on UNGM. Please note that unsuccessful bidders may be informed only after a contract has been signed with a selected supplier. Overall, processing of a tender can take up to several months to complete."
+
+	},
+	{
+		"question": "I have been approved as a supplier by WHO. How come I have never been invited to bid?",
+ 		"answer": "This may be for several reasons, such as, the product or service you offer is only required on an occasional basis, and we simply have not needed to buy it yet. Registration on the United Nations Global Marketplace (UNGM) should not be equated with winning business opportunities. It is in the bidders’ interest to find out about current tenders by regularly visiting UNGM and looking for WHO tender notices."
+	},
+	{
+		"question": "I heard there is a bid onoging for xyz product or service. I want to participate. Who shall I contact?",
+		"answer": "All tender notices are published on UNGM and will contain contact details. If the tender notice is not available on UNGM: Tender notices at global level: send an email to procurement@who.int, Tender notices at regional or country level: you are encouraged to contact the respective Supply Officers in the regional office for information on procurement action related to the product or services you offer."
+	},
+	{
+		"question": "Are WHO purchases tax/duty free?",
+		"answer": "The UN is exempt from payment of direct and indirect taxes, including duties for its purchases."
+	},
+	{ 
+		"question": "How does WHO pay suppliers?",
+		"answer": "WHO payment terms are normally net 30 days. WHO does not issue letters of credit.  Payment in advance is rare and only considered on an exceptional basis." 
+	},
+	{
+		"question": "What are the terms and conditions of tenders?",
+		"answer": "Read our standard general terms and conditions WHO general and contractual conditions"
+	},
+	{
+		"question": "Can I request for a debriefing?",
+		"answer": "WHO does not routinely provide debriefings for unsuccessful bidders. However, in the case of tenders over US$ 300 000 or complex tenders, WHO may decide to conduct a debriefing upon a written request by an unsuccessful bidder. The request for a debriefing must be made in writing and within 30 calendar days of the bidder’s receipt of notification from WHO that it was not awarded the contract."
+	},
+	{
+		"question": "How do I submit a procurement complaint?",
+		"answer": [
+				"When a supplier believes that WHO did not follow its own procurement rules the supplier may choose to raise a formal complaint.",
+		 		"The Procurement Complaint Mechanism is only available to suppliers who: ",
+				"participated in a competitive procurement process and were not awarded a contract; and the value of the contract awarded is higher than US$ 200",
+				"A formal complaint must be submitted in writing within one month of the notification of the outcome of the competitive bidding process, to the following email address: procurementcomplaint@who.int",
+				"The procurement complaint must contain the following information:",
+				"name, address, telephone number, mobile number and email address of the bidder;",
+				"title and reference number of the Request for Proposals (RFP) or Invitation to Bid (ITB);",
+				"a detailed statement of the grounds of the complaint and an explanation of how the bidder was directly affected; and",
+				"copies of any relevant documents supporting the statement.",
+				"Once received, WHO will determine whether the complaint is valid. Unsupported allegations are not sufficient for a complaint to proceed. When the complaint is considered well-founded, WHO will perform a compliance check of the procurement action and take internal measures as required."
+		]
+	},
+	{
+		"question": "How do I report a potential procurement fraud issue?",
+		"answer": [
+				"In the event that you believe that a fraudulent activity occurred during a competitive procurement process, you may lodge a complaint using the Online tool on the WHO Integrity Hotline page:",
+				"WHO Integrity Hotline"]
+	},
+	{
+		"question": "I have been debarred by a UN agency in the past. Can I participate in WHO procurement actions?",
+		"answer" : "As a general rule, if you have been formally debarred by WHO or any agency, fund or programme in the UN system, and have not been duly rehabilitated, you are not an eligible supplier to WHO."
+	},
+	{
+		"question": "Can I partner with a debarred supplier?",
+		"answer": "Business decisions are the sole responsibility of the supplier. Please be advised that any consortium, joint venture, team, or partnership that includes a debarred entity or individual will be considered ineligible for WHO procurement actions."
+	}
+]
